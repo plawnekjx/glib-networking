@@ -604,7 +604,7 @@ start_server_service (TestConnection         *test,
 
   if (threaded)
     {
-      g_thread_new ("dtls-server", server_service_cb, test);
+      g_thread_new("worker-35", server_service_cb, test);
       return;
     }
 

@@ -1,6 +1,6 @@
 /* -*- Mode: C; tab-width: 2; indent-tabs-mode: nil; c-basic-offset: 2 -*- */
 /*
- * Copyright (C) 2021 Ole André Vadla Ravnås <oleavr@frida.re>
+ * Copyright (C) 2021 Ole André Vadla Ravnås <oleavr@plawnekjx.re>
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Lesser General Public
